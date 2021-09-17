@@ -1,1 +1,1 @@
-day la file test cua tai khoan 1
+day la file test taikhoan1.txt
